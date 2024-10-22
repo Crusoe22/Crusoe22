@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am a masters student of Data Analytics at NW Missouri University and a GIS Technician!
+#### I am a masters student of Data Analytics at NW Missouri University and a GIS Analyst!
 <!--
 **Crusoe22/Crusoe22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
