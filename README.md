@@ -4,7 +4,7 @@
 
 Hi! I'm Nolan, a analyst with a passion for extracting meaningful insights from data. I specialize in transforming raw datasets into clear, actionable stories through analysis, visualization, and machine learning. With a strong foundation in statistical analysis, Python, SQL, and data visualization, I’m focused on solving real-world problems with data-driven solutions.
 
-Currently, I am pursuing my Master's in Data Analytics at Northwest Missouri State University, expected to graduate in August, 2025.
+Master's in Data Analytics from Northwest Missouri State University
 
 #### Contact Information
 + Nolan Moss
