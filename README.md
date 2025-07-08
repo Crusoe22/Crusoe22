@@ -2,7 +2,7 @@
 
 ## 📊 About Me
 
-Hi! I'm Nolan, a analyst with a passion for extracting meaningful insights from data. I specialize in transforming raw datasets into clear, actionable stories through analysis, visualization, and machine learning. With a strong foundation in statistical analysis, Python, SQL, and data visualization, I’m focused on solving real-world problems with data-driven solutions.
+Hi! I'm Nolan, an analyst with a passion for extracting meaningful insights from data. I specialize in transforming raw datasets into clear, actionable stories through analysis, visualization, and machine learning. With a strong foundation in statistical analysis, Python, SQL, and data visualization, I’m focused on solving real-world problems with data-driven solutions.
 
 Master's in Data Analytics from Northwest Missouri State University
 
