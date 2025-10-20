@@ -48,7 +48,8 @@ Master's in Data Analytics from Northwest Missouri State University
 | [Insurance Rate Analysis](https://github.com/Crusoe22/ml_regression_moss) | Built models to predict individual insurance rates based on multiple features, comparing the accuracy of Linear Regression and Polynomial Regression approaches | Python, Pandas, Numpy, sklearn, matplotlib |
 | [Web Mining and Applied NLP](https://github.com/Crusoe22/Module7-final-web-mining) | Built a sentiment scoring pipeline for web comments using SpaCy NLP. | Python, SpaCy, Matplotlib, requests |
 | [Insurance Claims Submission App](https://github.com/Crusoe22/ClaimStalker-web) | Developed a full-stack app for submitting and tracking insurance claims. | Python, MongoDB, Node.js, HTML, CSS, Javascript |
-| [CMDP_Sample_Results Data Processing](https://github.com/Crusoe22/CMDP_Sample_Results) | Automation of data pipline process for CMPD samples in ArcGIS pro | Python, Arcpy, Openpyxl |
+| [CMDP_Sample_Results Data Processing](https://github.com/Crusoe22/CMDP_Sample_Results) | Automation of data pipline process for CMPD samples in ArcGIS pro. | Python, Arcpy, Openpyxl |
+| [Predicting NASDAQ Stock Prices with Machine Learning ](https://github.com/Crusoe22/Moss_ML_Capstone) | Predict short-term stock price movements. | Python, Machine Learning |
 
 > 📌 *Explore my repositories for more detailed projects!*
 
