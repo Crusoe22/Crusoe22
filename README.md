@@ -19,6 +19,8 @@ Master's in Data Analytics from Northwest Missouri State University
 - Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, ArcPy)
 - SQL (PostgreSQL, MySQL)
 - Excel (Advanced Formulas, Pivot Tables, Power Query)
+- Javascript
+- HTML/CSS
 
 **Data Visualization:**
 - Tableau
